@@ -1,0 +1,7 @@
+# Code Igniter
+*/config/database.php
+application/logs/log-*.php
+application/logs/!index.html
+*/cache/*
+*/cache/!index.html
+*/cache/!.htaccess
